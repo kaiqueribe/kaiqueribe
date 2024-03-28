@@ -1,15 +1,20 @@
 
 <h1 align="left">Hello World, I'm Kaique 👨🏽‍💻🏴‍☠️</h1>
 
-<div>
+<div align="center">
 
-  ## 📊 My activities
-  <a href="https://github.com/kaiqueribe">
+## 📊 My activities
+<a href="https://github.com/kaiqueribe">
     <img width=450 height=170 align="center" alt="kaiqueribe" src="https://github-readme-stats.vercel.app/api?username=kaiqueribe&theme=transparent&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/kaiqueribe">
+</a>
+<a href="https://github.com/kaiqueribe">
     <img align="center" alt="kaiqueribe" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueribe&theme=transparent&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
+</a>
+
+<a href="https://github.com/kaiqueribe">
+<img align="center" alt="kaiqueribe" src="https://github-readme-streak-stats.herokuapp.com?user=kaiqueribe&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</a>
+  
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -29,3 +34,7 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+
+
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kaiqueribe&theme=transparent&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
