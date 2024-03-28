@@ -1,6 +1,16 @@
 
 <h1 align="left">Hello World, I'm Kaique 👨🏽‍💻🏴‍☠️</h1>
 
+<div>
+
+  ## 📊 My activities
+  <a href="https://github.com/kaiqueribe">
+    <img width=450 height=170 align="center" alt="kaiqueribe" src="https://github-readme-stats.vercel.app/api?username=kaiqueribe&theme=transparent&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/kaiqueribe">
+    <img align="center" alt="kaiqueribe" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueribe&theme=transparent&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
