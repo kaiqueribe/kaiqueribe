@@ -17,8 +17,6 @@
   
 </div>
 
-![snake gif](https://github.com/kaiqueribe/kaiqueribe/blob/output/github-contribution-grid-snake.svg)
-
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/kaiqueribe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -36,5 +34,12 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+##
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+![Status](./profile-3d-contrib/profile-night-view.svg)
+
+<div align="center">
+    
+![snake gif](https://github.com/kaiqueribe/kaiqueribe/blob/output/github-contribution-grid-snake.svg)
+
+</div>
