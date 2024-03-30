@@ -17,6 +17,8 @@
   
 </div>
 
+![snake gif](https://github.com/kaiqueribe/kaiqueribe/blob/output/github-contribution-grid-snake.gif)
+
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/kaiqueribe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
