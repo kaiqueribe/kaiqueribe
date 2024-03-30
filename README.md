@@ -1,9 +1,19 @@
 
 <h1 align="left">Hello World, I'm Kaique 👨🏽‍💻🏴‍☠️</h1>
 
-<div align="center">
+Back-end Developer
+
+##  About me
+
+  - 👨🏽‍💻 Trabalho com Java e Elixir
+  - 💻 
+  - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas - UNIP(2018)
+  - 📚 Cursando Pós Graduação em Arquitetura e Desenvolvimento em Java - FIAP (2023 - 2024)
 
 ## 📊 My activities
+<div align="center">
+
+
 <a href="https://github.com/kaiqueribe">
     <img width=450 height=170 align="center" alt="kaiqueribe" src="https://github-readme-stats.vercel.app/api?username=kaiqueribe&theme=transparent&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
 </a>
