@@ -5,7 +5,7 @@ Back-end Developer
 
 ##  About me
 
-  - 👨🏽‍💻 Trabalho com Java e Elixir
+  - 👨🏽‍💻 Trabalho com Java
   - 💻 
   - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas - UNIP(2018)
   - 📚 Cursando Pós Graduação em Arquitetura e Desenvolvimento em Java - FIAP (2023 - 2024)
