@@ -22,10 +22,16 @@ Back-end Developer
 </a>
 
 <a href="https://github.com/kaiqueribe">
-<img align="center" alt="kaiqueribe" src="https://github-readme-streak-stats.herokuapp.com?user=kaiqueribe&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kaiqueribe&theme=rising-sun&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=02010100&hide_total_contributions=true" alt="GitHub Streak" />
 </a>
-  
+
+<a href="https://github.com/kaiqueribe">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kaiqueribe&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</a>
 </div>
+
+
+
 
 ## Connect with me:
 <p align="left">
