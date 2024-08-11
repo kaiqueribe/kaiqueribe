@@ -1,14 +1,17 @@
-
 <h1 align="left">Hello World, I'm Kaique 👨🏽‍💻🏴‍☠️</h1>
 
 Back-end Developer
 
-##  About me
+## Sobre mim
 
-  - 👨🏽‍💻 Trabalho com Java
-  - 💻 
-  - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas - UNIP(2018)
-  - 📚 Cursando Pós Graduação em Arquitetura e Desenvolvimento em Java - FIAP (2023 - 2024)
+
+
+Em 2023, retomei meus estudos em programação, com um foco especial no desenvolvimento backend. Desde então, venho aprimorando minhas habilidades no ecossistema Java, especialmente com Spring Boot, e utilizando tecnologias como Git, Docker, Postman, PostgreSQL, MongoDB e Maven para desenvolver APIs robustas e escaláveis. Paralelamente, estou estudando tecnologias DevOps e Cloud Computing, para no futuro gerenciar aplicações em nuvens como AWS ou Azure.
+
+Recentemente, também comecei a explorar o desenvolvimento frontend com o framework Angular, buscando criar aplicações web completas e integradas, desde a interface até a lógica de negócio.
+
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
+
 
 ## 📊 My activities
 <div align="center">
@@ -33,23 +36,35 @@ Back-end Developer
 
 
 
-## Connect with me:
+## Contato:
 <p align="left">
 <a href="https://www.linkedin.com/in/kaiqueribe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
-## Languages and Frameworks:
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-    
-## Tools: 
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+## Formação Acadêmica
+
+**Faculdade de Informática e Administração Paulista (FIAP)** <br>
+Pós-graduação Lato Sensu - Arquitetura e Desenvolvimento Java <br>
+abr de 2023 - fev de 2024
+
+**Universidade Paulista (UNIP)** <br>
+Análise e Desenvolvimento de Sistemas <br>
+mar de 2016 - mar de 2017
+
+## Hardskills:
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular," />
+</a><br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,mysql,mongo,postgres,aws,azure"/>
+</a><br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" />
+</a>
+
+
 ##
 
 ![Status](./profile-3d-contrib/profile-night-view.svg)
